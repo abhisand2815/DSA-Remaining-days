@@ -1,40 +1,37 @@
-import java.util.*;
-
 class Solution {
 
     public List<List<Integer>> combinationSum(int[] candidates, int target) {
 
+        Arrays.sort(candidates);
+
         List<List<Integer>> result = new ArrayList<>();
 
-        backtrack(candidates, target, 0, new ArrayList<>(), result);
+        dfs(candidates, target, 0, new ArrayList<>(), result);
 
         return result;
     }
 
-    private void backtrack(int[] candidates, int target, int start,
-                           List<Integer> path,
-                           List<List<Integer>> result) {
+    private void dfs(int[] candidates, int target, int start,
+                     List<Integer> current,
+                     List<List<Integer>> result) {
 
-        // Found a valid combination
         if (target == 0) {
-            result.add(new ArrayList<>(path));
-            return;
-        }
-
-        // Target exceeded
-        if (target < 0) {
+            result.add(new ArrayList<>(current));
             return;
         }
 
         for (int i = start; i < candidates.length; i++) {
 
-            path.add(candidates[i]);
+            // 🔥 Pruning
+            if (candidates[i] > target)
+                break;
 
-            // Reuse same number → pass i
-            backtrack(candidates, target - candidates[i], i, path, result);
+            current.add(candidates[i]);
 
-            // Backtrack
-            path.remove(path.size() - 1);
+            // Reuse same element
+            dfs(candidates, target - candidates[i], i, current, result);
+
+            current.remove(current.size() - 1);
         }
     }
 }
