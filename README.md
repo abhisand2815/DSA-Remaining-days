@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/abhisand2815/DSA-Remaining-days/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/abhisand2815/DSA-Remaining-days/tree/master/0046-permutations) |
 | [0053-maximum-subarray](https://github.com/abhisand2815/DSA-Remaining-days/tree/master/0053-maximum-subarray) |
+| [0074-search-a-2d-matrix](https://github.com/abhisand2815/DSA-Remaining-days/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/abhisand2815/DSA-Remaining-days/tree/master/0079-word-search) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/abhisand2815/DSA-Remaining-days/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0212-word-search-ii](https://github.com/abhisand2815/DSA-Remaining-days/tree/master/0212-word-search-ii) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/abhisand2815/DSA-Remaining-days/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/abhisand2815/DSA-Remaining-days/tree/master/0079-word-search) |
 | [0212-word-search-ii](https://github.com/abhisand2815/DSA-Remaining-days/tree/master/0212-word-search-ii) |
 | [0427-construct-quad-tree](https://github.com/abhisand2815/DSA-Remaining-days/tree/master/0427-construct-quad-tree) |
@@ -75,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/abhisand2815/DSA-Remaining-days/tree/master/0035-search-insert-position) |
+| [0074-search-a-2d-matrix](https://github.com/abhisand2815/DSA-Remaining-days/tree/master/0074-search-a-2d-matrix) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/abhisand2815/DSA-Remaining-days/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 ## Binary Tree
 |  |
