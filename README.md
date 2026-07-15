@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0212-word-search-ii](https://github.com/abhisand2815/DSA-Remaining-days/tree/master/0212-word-search-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/abhisand2815/DSA-Remaining-days/tree/master/0215-kth-largest-element-in-an-array) |
 | [0427-construct-quad-tree](https://github.com/abhisand2815/DSA-Remaining-days/tree/master/0427-construct-quad-tree) |
+| [0502-ipo](https://github.com/abhisand2815/DSA-Remaining-days/tree/master/0502-ipo) |
 | [0918-maximum-sum-circular-subarray](https://github.com/abhisand2815/DSA-Remaining-days/tree/master/0918-maximum-sum-circular-subarray) |
 ## String
 |  |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0148-sort-list](https://github.com/abhisand2815/DSA-Remaining-days/tree/master/0148-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/abhisand2815/DSA-Remaining-days/tree/master/0215-kth-largest-element-in-an-array) |
+| [0502-ipo](https://github.com/abhisand2815/DSA-Remaining-days/tree/master/0502-ipo) |
 ## Merge Sort
 |  |
 | ------- |
@@ -120,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/abhisand2815/DSA-Remaining-days/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/abhisand2815/DSA-Remaining-days/tree/master/0215-kth-largest-element-in-an-array) |
+| [0502-ipo](https://github.com/abhisand2815/DSA-Remaining-days/tree/master/0502-ipo) |
 ## Queue
 |  |
 | ------- |
@@ -132,4 +135,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/abhisand2815/DSA-Remaining-days/tree/master/0215-kth-largest-element-in-an-array) |
+## Greedy
+|  |
+| ------- |
+| [0502-ipo](https://github.com/abhisand2815/DSA-Remaining-days/tree/master/0502-ipo) |
 <!---LeetCode Topics End-->
