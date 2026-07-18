@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/abhisand2815/DSA-Remaining-days/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/abhisand2815/DSA-Remaining-days/tree/master/0022-generate-parentheses) |
+| [0067-add-binary](https://github.com/abhisand2815/DSA-Remaining-days/tree/master/0067-add-binary) |
 | [0079-word-search](https://github.com/abhisand2815/DSA-Remaining-days/tree/master/0079-word-search) |
 | [0212-word-search-ii](https://github.com/abhisand2815/DSA-Remaining-days/tree/master/0212-word-search-ii) |
 ## Backtracking
@@ -152,4 +153,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/abhisand2815/DSA-Remaining-days/tree/master/0295-find-median-from-data-stream) |
+## Math
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/abhisand2815/DSA-Remaining-days/tree/master/0067-add-binary) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/abhisand2815/DSA-Remaining-days/tree/master/0067-add-binary) |
+## Simulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/abhisand2815/DSA-Remaining-days/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
