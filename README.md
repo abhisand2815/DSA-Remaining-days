@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/abhisand2815/DSA-Remaining-days/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0136-single-number](https://github.com/abhisand2815/DSA-Remaining-days/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/abhisand2815/DSA-Remaining-days/tree/master/0137-single-number-ii) |
+| [0149-max-points-on-a-line](https://github.com/abhisand2815/DSA-Remaining-days/tree/master/0149-max-points-on-a-line) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/abhisand2815/DSA-Remaining-days/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/abhisand2815/DSA-Remaining-days/tree/master/0162-find-peak-element) |
 | [0212-word-search-ii](https://github.com/abhisand2815/DSA-Remaining-days/tree/master/0212-word-search-ii) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/abhisand2815/DSA-Remaining-days/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0149-max-points-on-a-line](https://github.com/abhisand2815/DSA-Remaining-days/tree/master/0149-max-points-on-a-line) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -166,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/abhisand2815/DSA-Remaining-days/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/abhisand2815/DSA-Remaining-days/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/abhisand2815/DSA-Remaining-days/tree/master/0069-sqrtx) |
+| [0149-max-points-on-a-line](https://github.com/abhisand2815/DSA-Remaining-days/tree/master/0149-max-points-on-a-line) |
 | [0172-factorial-trailing-zeroes](https://github.com/abhisand2815/DSA-Remaining-days/tree/master/0172-factorial-trailing-zeroes) |
 ## Bit Manipulation
 |  |
@@ -183,4 +186,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/abhisand2815/DSA-Remaining-days/tree/master/0050-powx-n) |
+## Geometry
+|  |
+| ------- |
+| [0149-max-points-on-a-line](https://github.com/abhisand2815/DSA-Remaining-days/tree/master/0149-max-points-on-a-line) |
 <!---LeetCode Topics End-->
