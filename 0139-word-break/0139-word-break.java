@@ -6,6 +6,10 @@ class Solution {
 
         Set<String> set = new HashSet<>(wordDict);
 
+        int maxLen = 0;
+        for (String word : wordDict)
+            maxLen = Math.max(maxLen, word.length());
+
         int n = s.length();
 
         boolean[] dp = new boolean[n + 1];
@@ -13,9 +17,12 @@ class Solution {
 
         for (int i = 1; i <= n; i++) {
 
-            for (int j = 0; j < i; j++) {
+            for (int len = 1; len <= maxLen && len <= i; len++) {
 
-                if (dp[j] && set.contains(s.substring(j, i))) {
+                if (!dp[i - len])
+                    continue;
+
+                if (set.contains(s.substring(i - len, i))) {
                     dp[i] = true;
                     break;
                 }
