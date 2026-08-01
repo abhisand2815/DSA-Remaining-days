@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/abhisand2815/DSA-Remaining-days/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0136-single-number](https://github.com/abhisand2815/DSA-Remaining-days/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/abhisand2815/DSA-Remaining-days/tree/master/0137-single-number-ii) |
+| [0139-word-break](https://github.com/abhisand2815/DSA-Remaining-days/tree/master/0139-word-break) |
 | [0149-max-points-on-a-line](https://github.com/abhisand2815/DSA-Remaining-days/tree/master/0149-max-points-on-a-line) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/abhisand2815/DSA-Remaining-days/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/abhisand2815/DSA-Remaining-days/tree/master/0162-find-peak-element) |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/abhisand2815/DSA-Remaining-days/tree/master/0022-generate-parentheses) |
 | [0067-add-binary](https://github.com/abhisand2815/DSA-Remaining-days/tree/master/0067-add-binary) |
 | [0079-word-search](https://github.com/abhisand2815/DSA-Remaining-days/tree/master/0079-word-search) |
+| [0139-word-break](https://github.com/abhisand2815/DSA-Remaining-days/tree/master/0139-word-break) |
 | [0212-word-search-ii](https://github.com/abhisand2815/DSA-Remaining-days/tree/master/0212-word-search-ii) |
 ## Backtracking
 |  |
@@ -51,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Trie
 |  |
 | ------- |
+| [0139-word-break](https://github.com/abhisand2815/DSA-Remaining-days/tree/master/0139-word-break) |
 | [0212-word-search-ii](https://github.com/abhisand2815/DSA-Remaining-days/tree/master/0212-word-search-ii) |
 ## Matrix
 |  |
@@ -63,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/abhisand2815/DSA-Remaining-days/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0139-word-break](https://github.com/abhisand2815/DSA-Remaining-days/tree/master/0139-word-break) |
 | [0149-max-points-on-a-line](https://github.com/abhisand2815/DSA-Remaining-days/tree/master/0149-max-points-on-a-line) |
 ## Dynamic Programming
 |  |
@@ -70,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/abhisand2815/DSA-Remaining-days/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/abhisand2815/DSA-Remaining-days/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/abhisand2815/DSA-Remaining-days/tree/master/0070-climbing-stairs) |
+| [0139-word-break](https://github.com/abhisand2815/DSA-Remaining-days/tree/master/0139-word-break) |
 | [0198-house-robber](https://github.com/abhisand2815/DSA-Remaining-days/tree/master/0198-house-robber) |
 | [0918-maximum-sum-circular-subarray](https://github.com/abhisand2815/DSA-Remaining-days/tree/master/0918-maximum-sum-circular-subarray) |
 ## Depth-First Search
@@ -198,4 +203,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/abhisand2815/DSA-Remaining-days/tree/master/0070-climbing-stairs) |
+| [0139-word-break](https://github.com/abhisand2815/DSA-Remaining-days/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
