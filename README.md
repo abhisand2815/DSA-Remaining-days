@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/abhisand2815/DSA-Remaining-days/tree/master/0005-longest-palindromic-substring) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/abhisand2815/DSA-Remaining-days/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/abhisand2815/DSA-Remaining-days/tree/master/0022-generate-parentheses) |
 | [0067-add-binary](https://github.com/abhisand2815/DSA-Remaining-days/tree/master/0067-add-binary) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/abhisand2815/DSA-Remaining-days/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/abhisand2815/DSA-Remaining-days/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/abhisand2815/DSA-Remaining-days/tree/master/0053-maximum-subarray) |
 | [0063-unique-paths-ii](https://github.com/abhisand2815/DSA-Remaining-days/tree/master/0063-unique-paths-ii) |
@@ -135,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/abhisand2815/DSA-Remaining-days/tree/master/0005-longest-palindromic-substring) |
 | [0148-sort-list](https://github.com/abhisand2815/DSA-Remaining-days/tree/master/0148-sort-list) |
 | [0295-find-median-from-data-stream](https://github.com/abhisand2815/DSA-Remaining-days/tree/master/0295-find-median-from-data-stream) |
 ## Sorting
@@ -221,4 +224,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/abhisand2815/DSA-Remaining-days/tree/master/0322-coin-change) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/abhisand2815/DSA-Remaining-days/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
