@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0137-single-number-ii](https://github.com/abhisand2815/DSA-Remaining-days/tree/master/0137-single-number-ii) |
 | [0139-word-break](https://github.com/abhisand2815/DSA-Remaining-days/tree/master/0139-word-break) |
 | [0149-max-points-on-a-line](https://github.com/abhisand2815/DSA-Remaining-days/tree/master/0149-max-points-on-a-line) |
+| [0152-maximum-product-subarray](https://github.com/abhisand2815/DSA-Remaining-days/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/abhisand2815/DSA-Remaining-days/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/abhisand2815/DSA-Remaining-days/tree/master/0162-find-peak-element) |
 | [0198-house-robber](https://github.com/abhisand2815/DSA-Remaining-days/tree/master/0198-house-robber) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/abhisand2815/DSA-Remaining-days/tree/master/0070-climbing-stairs) |
 | [0120-triangle](https://github.com/abhisand2815/DSA-Remaining-days/tree/master/0120-triangle) |
 | [0139-word-break](https://github.com/abhisand2815/DSA-Remaining-days/tree/master/0139-word-break) |
+| [0152-maximum-product-subarray](https://github.com/abhisand2815/DSA-Remaining-days/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/abhisand2815/DSA-Remaining-days/tree/master/0198-house-robber) |
 | [0300-longest-increasing-subsequence](https://github.com/abhisand2815/DSA-Remaining-days/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/abhisand2815/DSA-Remaining-days/tree/master/0322-coin-change) |
