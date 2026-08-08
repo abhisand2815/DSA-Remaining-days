@@ -11,7 +11,6 @@ class Solution {
 
         dp[0] = true;
 
-        // Using only s2
         for (int j = 1; j <= n; j++) {
             dp[j] = dp[j - 1] &&
                     s2.charAt(j - 1) == s3.charAt(j - 1);
@@ -19,17 +18,16 @@ class Solution {
 
         for (int i = 1; i <= m; i++) {
 
-            // Using only s1
             dp[0] = dp[0] &&
                     s1.charAt(i - 1) == s3.charAt(i - 1);
 
             for (int j = 1; j <= n; j++) {
 
-                char c = s3.charAt(i + j - 1);
-
-                dp[j] =
-                    (dp[j] && s1.charAt(i - 1) == c) ||
-                    (dp[j - 1] && s2.charAt(j - 1) == c);
+                dp[j] = (dp[j] &&
+                         s1.charAt(i - 1) == s3.charAt(i + j - 1))
+                        ||
+                        (dp[j - 1] &&
+                         s2.charAt(j - 1) == s3.charAt(i + j - 1));
             }
         }
 
