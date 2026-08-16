@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/abhisand2815/DSA-Remaining-days/tree/master/0162-find-peak-element) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/abhisand2815/DSA-Remaining-days/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0198-house-robber](https://github.com/abhisand2815/DSA-Remaining-days/tree/master/0198-house-robber) |
+| [0204-count-primes](https://github.com/abhisand2815/DSA-Remaining-days/tree/master/0204-count-primes) |
 | [0212-word-search-ii](https://github.com/abhisand2815/DSA-Remaining-days/tree/master/0212-word-search-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/abhisand2815/DSA-Remaining-days/tree/master/0215-kth-largest-element-in-an-array) |
 | [0221-maximal-square](https://github.com/abhisand2815/DSA-Remaining-days/tree/master/0221-maximal-square) |
@@ -217,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/abhisand2815/DSA-Remaining-days/tree/master/0070-climbing-stairs) |
 | [0149-max-points-on-a-line](https://github.com/abhisand2815/DSA-Remaining-days/tree/master/0149-max-points-on-a-line) |
 | [0172-factorial-trailing-zeroes](https://github.com/abhisand2815/DSA-Remaining-days/tree/master/0172-factorial-trailing-zeroes) |
+| [0204-count-primes](https://github.com/abhisand2815/DSA-Remaining-days/tree/master/0204-count-primes) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/abhisand2815/DSA-Remaining-days/tree/master/1071-greatest-common-divisor-of-strings) |
 ## Bit Manipulation
 |  |
@@ -263,4 +265,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/abhisand2815/DSA-Remaining-days/tree/master/0238-product-of-array-except-self) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/abhisand2815/DSA-Remaining-days/tree/master/0204-count-primes) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/abhisand2815/DSA-Remaining-days/tree/master/0204-count-primes) |
+## Primality Test
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/abhisand2815/DSA-Remaining-days/tree/master/0204-count-primes) |
+## Sieve Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/abhisand2815/DSA-Remaining-days/tree/master/0204-count-primes) |
+## Prime Number Sieve
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/abhisand2815/DSA-Remaining-days/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
