@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0212-word-search-ii](https://github.com/abhisand2815/DSA-Remaining-days/tree/master/0212-word-search-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/abhisand2815/DSA-Remaining-days/tree/master/0215-kth-largest-element-in-an-array) |
 | [0221-maximal-square](https://github.com/abhisand2815/DSA-Remaining-days/tree/master/0221-maximal-square) |
+| [0238-product-of-array-except-self](https://github.com/abhisand2815/DSA-Remaining-days/tree/master/0238-product-of-array-except-self) |
 | [0300-longest-increasing-subsequence](https://github.com/abhisand2815/DSA-Remaining-days/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/abhisand2815/DSA-Remaining-days/tree/master/0322-coin-change) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/abhisand2815/DSA-Remaining-days/tree/master/0373-find-k-pairs-with-smallest-sums) |
@@ -258,4 +259,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1071-greatest-common-divisor-of-strings](https://github.com/abhisand2815/DSA-Remaining-days/tree/master/1071-greatest-common-divisor-of-strings) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/abhisand2815/DSA-Remaining-days/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
