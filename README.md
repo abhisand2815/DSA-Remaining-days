@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/abhisand2815/DSA-Remaining-days/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/abhisand2815/DSA-Remaining-days/tree/master/1679-max-number-of-k-sum-pairs) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/abhisand2815/DSA-Remaining-days/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/abhisand2815/DSA-Remaining-days/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 ## String
 |  |
 | ------- |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/abhisand2815/DSA-Remaining-days/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/abhisand2815/DSA-Remaining-days/tree/master/0162-find-peak-element) |
 | [0300-longest-increasing-subsequence](https://github.com/abhisand2815/DSA-Remaining-days/tree/master/0300-longest-increasing-subsequence) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/abhisand2815/DSA-Remaining-days/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 ## Binary Tree
 |  |
 | ------- |
@@ -229,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0172-factorial-trailing-zeroes](https://github.com/abhisand2815/DSA-Remaining-days/tree/master/0172-factorial-trailing-zeroes) |
 | [0204-count-primes](https://github.com/abhisand2815/DSA-Remaining-days/tree/master/0204-count-primes) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/abhisand2815/DSA-Remaining-days/tree/master/1071-greatest-common-divisor-of-strings) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/abhisand2815/DSA-Remaining-days/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -237,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0137-single-number-ii](https://github.com/abhisand2815/DSA-Remaining-days/tree/master/0137-single-number-ii) |
 | [0190-reverse-bits](https://github.com/abhisand2815/DSA-Remaining-days/tree/master/0190-reverse-bits) |
 | [0201-bitwise-and-of-numbers-range](https://github.com/abhisand2815/DSA-Remaining-days/tree/master/0201-bitwise-and-of-numbers-range) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/abhisand2815/DSA-Remaining-days/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 ## Simulation
 |  |
 | ------- |
@@ -283,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/abhisand2815/DSA-Remaining-days/tree/master/0204-count-primes) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/abhisand2815/DSA-Remaining-days/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 ## Primality Test
 |  |
 | ------- |
@@ -299,4 +304,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0334-increasing-triplet-subsequence](https://github.com/abhisand2815/DSA-Remaining-days/tree/master/0334-increasing-triplet-subsequence) |
+## Combinatorics
+|  |
+| ------- |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/abhisand2815/DSA-Remaining-days/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 <!---LeetCode Topics End-->
