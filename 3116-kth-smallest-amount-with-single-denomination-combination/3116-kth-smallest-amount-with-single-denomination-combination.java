@@ -1,16 +1,42 @@
+import java.util.*;
+
 class Solution {
     public long findKthSmallest(int[] coins, int k) {
+        int n = coins.length;
+        int totalMasks = 1 << n;
+
+        long[] lcms = new long[totalMasks];
+        int[] bits = new int[totalMasks];
+
+        lcms[0] = 1;
+
+        for (int mask = 1; mask < totalMasks; mask++) {
+            int bit = Integer.numberOfTrailingZeros(mask);
+            int prev = mask & (mask - 1);
+
+            bits[mask] = bits[prev] + 1;
+
+            long g = gcd(lcms[prev], coins[bit]);
+            long value = lcms[prev] / g * coins[bit];
+
+            if (value > 2_000_000_000L) {
+                lcms[mask] = Long.MAX_VALUE;
+            } else {
+                lcms[mask] = value;
+            }
+        }
+
         long low = 1;
-        long high = (long) coins[0] * k;
+        long high = (long) k * coins[0];
 
         for (int coin : coins) {
-            high = Math.min(high, (long) coin * k);
+            high = Math.min(high, (long) k * coin);
         }
 
         while (low < high) {
             long mid = low + (high - low) / 2;
 
-            if (count(mid, coins) >= k) {
+            if (count(mid, lcms, bits) >= k) {
                 high = mid;
             } else {
                 low = mid + 1;
@@ -20,42 +46,24 @@ class Solution {
         return low;
     }
 
-    private long count(long x, int[] coins) {
-        long total = 0;
-        int n = coins.length;
+    private long count(long x, long[] lcms, int[] bits) {
+        long result = 0;
 
-        for (int mask = 1; mask < (1 << n); mask++) {
-            long lcm = 1;
-            int bits = 0;
-            boolean valid = true;
-
-            for (int i = 0; i < n; i++) {
-                if ((mask & (1 << i)) != 0) {
-                    bits++;
-
-                    lcm = lcm(lcm, coins[i]);
-
-                    if (lcm > x) {
-                        valid = false;
-                        break;
-                    }
-                }
-            }
-
-            if (!valid) {
+        for (int mask = 1; mask < lcms.length; mask++) {
+            if (lcms[mask] > x) {
                 continue;
             }
 
-            long ways = x / lcm;
+            long value = x / lcms[mask];
 
-            if (bits % 2 == 1) {
-                total += ways;
+            if ((bits[mask] & 1) == 1) {
+                result += value;
             } else {
-                total -= ways;
+                result -= value;
             }
         }
 
-        return total;
+        return result;
     }
 
     private long gcd(long a, long b) {
@@ -65,9 +73,5 @@ class Solution {
             b = temp;
         }
         return a;
-    }
-
-    private long lcm(long a, long b) {
-        return a / gcd(a, b) * b;
     }
 }
