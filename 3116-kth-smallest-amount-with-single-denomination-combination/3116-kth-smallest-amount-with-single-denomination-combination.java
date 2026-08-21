@@ -1,5 +1,3 @@
-import java.util.*;
-
 class Solution {
     public long findKthSmallest(int[] coins, int k) {
         int n = coins.length;
