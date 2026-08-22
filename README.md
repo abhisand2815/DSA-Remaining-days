@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/abhisand2815/DSA-Remaining-days/tree/master/0004-median-of-two-sorted-arrays) |
+| [0014-longest-common-prefix](https://github.com/abhisand2815/DSA-Remaining-days/tree/master/0014-longest-common-prefix) |
 | [0033-search-in-rotated-sorted-array](https://github.com/abhisand2815/DSA-Remaining-days/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/abhisand2815/DSA-Remaining-days/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/abhisand2815/DSA-Remaining-days/tree/master/0035-search-insert-position) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/abhisand2815/DSA-Remaining-days/tree/master/0005-longest-palindromic-substring) |
+| [0014-longest-common-prefix](https://github.com/abhisand2815/DSA-Remaining-days/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/abhisand2815/DSA-Remaining-days/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/abhisand2815/DSA-Remaining-days/tree/master/0022-generate-parentheses) |
 | [0067-add-binary](https://github.com/abhisand2815/DSA-Remaining-days/tree/master/0067-add-binary) |
@@ -79,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Trie
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/abhisand2815/DSA-Remaining-days/tree/master/0014-longest-common-prefix) |
 | [0139-word-break](https://github.com/abhisand2815/DSA-Remaining-days/tree/master/0139-word-break) |
 | [0212-word-search-ii](https://github.com/abhisand2815/DSA-Remaining-days/tree/master/0212-word-search-ii) |
 ## Matrix
