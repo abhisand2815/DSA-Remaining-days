@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/abhisand2815/DSA-Remaining-days/tree/master/0125-valid-palindrome) |
 | [0139-word-break](https://github.com/abhisand2815/DSA-Remaining-days/tree/master/0139-word-break) |
 | [0212-word-search-ii](https://github.com/abhisand2815/DSA-Remaining-days/tree/master/0212-word-search-ii) |
+| [0242-valid-anagram](https://github.com/abhisand2815/DSA-Remaining-days/tree/master/0242-valid-anagram) |
 | [0345-reverse-vowels-of-a-string](https://github.com/abhisand2815/DSA-Remaining-days/tree/master/0345-reverse-vowels-of-a-string) |
 | [0443-string-compression](https://github.com/abhisand2815/DSA-Remaining-days/tree/master/0443-string-compression) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/abhisand2815/DSA-Remaining-days/tree/master/1071-greatest-common-divisor-of-strings) |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/abhisand2815/DSA-Remaining-days/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0139-word-break](https://github.com/abhisand2815/DSA-Remaining-days/tree/master/0139-word-break) |
 | [0149-max-points-on-a-line](https://github.com/abhisand2815/DSA-Remaining-days/tree/master/0149-max-points-on-a-line) |
+| [0242-valid-anagram](https://github.com/abhisand2815/DSA-Remaining-days/tree/master/0242-valid-anagram) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/abhisand2815/DSA-Remaining-days/tree/master/1679-max-number-of-k-sum-pairs) |
 ## Dynamic Programming
 |  |
@@ -178,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0148-sort-list](https://github.com/abhisand2815/DSA-Remaining-days/tree/master/0148-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/abhisand2815/DSA-Remaining-days/tree/master/0215-kth-largest-element-in-an-array) |
+| [0242-valid-anagram](https://github.com/abhisand2815/DSA-Remaining-days/tree/master/0242-valid-anagram) |
 | [0295-find-median-from-data-stream](https://github.com/abhisand2815/DSA-Remaining-days/tree/master/0295-find-median-from-data-stream) |
 | [0502-ipo](https://github.com/abhisand2815/DSA-Remaining-days/tree/master/0502-ipo) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/abhisand2815/DSA-Remaining-days/tree/master/1679-max-number-of-k-sum-pairs) |
