@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0443-string-compression](https://github.com/abhisand2815/DSA-Remaining-days/tree/master/0443-string-compression) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/abhisand2815/DSA-Remaining-days/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1768-merge-strings-alternately](https://github.com/abhisand2815/DSA-Remaining-days/tree/master/1768-merge-strings-alternately) |
+| [1927-sum-game](https://github.com/abhisand2815/DSA-Remaining-days/tree/master/1927-sum-game) |
 ## Backtracking
 |  |
 | ------- |
@@ -218,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0334-increasing-triplet-subsequence](https://github.com/abhisand2815/DSA-Remaining-days/tree/master/0334-increasing-triplet-subsequence) |
 | [0502-ipo](https://github.com/abhisand2815/DSA-Remaining-days/tree/master/0502-ipo) |
 | [0605-can-place-flowers](https://github.com/abhisand2815/DSA-Remaining-days/tree/master/0605-can-place-flowers) |
+| [1927-sum-game](https://github.com/abhisand2815/DSA-Remaining-days/tree/master/1927-sum-game) |
 ## Design
 |  |
 | ------- |
@@ -239,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0172-factorial-trailing-zeroes](https://github.com/abhisand2815/DSA-Remaining-days/tree/master/0172-factorial-trailing-zeroes) |
 | [0204-count-primes](https://github.com/abhisand2815/DSA-Remaining-days/tree/master/0204-count-primes) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/abhisand2815/DSA-Remaining-days/tree/master/1071-greatest-common-divisor-of-strings) |
+| [1927-sum-game](https://github.com/abhisand2815/DSA-Remaining-days/tree/master/1927-sum-game) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/abhisand2815/DSA-Remaining-days/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/abhisand2815/DSA-Remaining-days/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## Bit Manipulation
@@ -317,4 +320,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/abhisand2815/DSA-Remaining-days/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
+## Game Theory
+|  |
+| ------- |
+| [1927-sum-game](https://github.com/abhisand2815/DSA-Remaining-days/tree/master/1927-sum-game) |
 <!---LeetCode Topics End-->
