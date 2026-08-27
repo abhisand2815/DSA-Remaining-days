@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1768-merge-strings-alternately](https://github.com/abhisand2815/DSA-Remaining-days/tree/master/1768-merge-strings-alternately) |
 | [1927-sum-game](https://github.com/abhisand2815/DSA-Remaining-days/tree/master/1927-sum-game) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/abhisand2815/DSA-Remaining-days/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/abhisand2815/DSA-Remaining-days/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Backtracking
 |  |
 | ------- |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/abhisand2815/DSA-Remaining-days/tree/master/0242-valid-anagram) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/abhisand2815/DSA-Remaining-days/tree/master/1679-max-number-of-k-sum-pairs) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/abhisand2815/DSA-Remaining-days/tree/master/3718-smallest-missing-multiple-of-k) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/abhisand2815/DSA-Remaining-days/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -225,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0502-ipo](https://github.com/abhisand2815/DSA-Remaining-days/tree/master/0502-ipo) |
 | [0605-can-place-flowers](https://github.com/abhisand2815/DSA-Remaining-days/tree/master/0605-can-place-flowers) |
 | [1927-sum-game](https://github.com/abhisand2815/DSA-Remaining-days/tree/master/1927-sum-game) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/abhisand2815/DSA-Remaining-days/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Design
 |  |
 | ------- |
@@ -302,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/abhisand2815/DSA-Remaining-days/tree/master/0204-count-primes) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/abhisand2815/DSA-Remaining-days/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Number Theory
 |  |
 | ------- |
@@ -344,4 +348,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/abhisand2815/DSA-Remaining-days/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
+## Counting
+|  |
+| ------- |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/abhisand2815/DSA-Remaining-days/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 <!---LeetCode Topics End-->
