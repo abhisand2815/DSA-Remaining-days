@@ -178,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/abhisand2815/DSA-Remaining-days/tree/master/0023-merge-k-sorted-lists) |
 | [0148-sort-list](https://github.com/abhisand2815/DSA-Remaining-days/tree/master/0148-sort-list) |
+| [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/abhisand2815/DSA-Remaining-days/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 ## Two Pointers
 |  |
 | ------- |
