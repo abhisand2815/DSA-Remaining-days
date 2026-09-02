@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/abhisand2815/DSA-Remaining-days/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0139-word-break](https://github.com/abhisand2815/DSA-Remaining-days/tree/master/0139-word-break) |
+| [0141-linked-list-cycle](https://github.com/abhisand2815/DSA-Remaining-days/tree/master/0141-linked-list-cycle) |
 | [0149-max-points-on-a-line](https://github.com/abhisand2815/DSA-Remaining-days/tree/master/0149-max-points-on-a-line) |
 | [0242-valid-anagram](https://github.com/abhisand2815/DSA-Remaining-days/tree/master/0242-valid-anagram) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/abhisand2815/DSA-Remaining-days/tree/master/1679-max-number-of-k-sum-pairs) |
@@ -181,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/abhisand2815/DSA-Remaining-days/tree/master/0023-merge-k-sorted-lists) |
+| [0141-linked-list-cycle](https://github.com/abhisand2815/DSA-Remaining-days/tree/master/0141-linked-list-cycle) |
 | [0148-sort-list](https://github.com/abhisand2815/DSA-Remaining-days/tree/master/0148-sort-list) |
 | [0206-reverse-linked-list](https://github.com/abhisand2815/DSA-Remaining-days/tree/master/0206-reverse-linked-list) |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/abhisand2815/DSA-Remaining-days/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
@@ -189,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/abhisand2815/DSA-Remaining-days/tree/master/0005-longest-palindromic-substring) |
 | [0125-valid-palindrome](https://github.com/abhisand2815/DSA-Remaining-days/tree/master/0125-valid-palindrome) |
+| [0141-linked-list-cycle](https://github.com/abhisand2815/DSA-Remaining-days/tree/master/0141-linked-list-cycle) |
 | [0148-sort-list](https://github.com/abhisand2815/DSA-Remaining-days/tree/master/0148-sort-list) |
 | [0295-find-median-from-data-stream](https://github.com/abhisand2815/DSA-Remaining-days/tree/master/0295-find-median-from-data-stream) |
 | [0345-reverse-vowels-of-a-string](https://github.com/abhisand2815/DSA-Remaining-days/tree/master/0345-reverse-vowels-of-a-string) |
@@ -373,4 +376,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/abhisand2815/DSA-Remaining-days/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/abhisand2815/DSA-Remaining-days/tree/master/0141-linked-list-cycle) |
 <!---LeetCode Topics End-->
