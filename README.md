@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/abhisand2815/DSA-Remaining-days/tree/master/0242-valid-anagram) |
 | [0345-reverse-vowels-of-a-string](https://github.com/abhisand2815/DSA-Remaining-days/tree/master/0345-reverse-vowels-of-a-string) |
 | [0443-string-compression](https://github.com/abhisand2815/DSA-Remaining-days/tree/master/0443-string-compression) |
+| [0940-distinct-subsequences-ii](https://github.com/abhisand2815/DSA-Remaining-days/tree/master/0940-distinct-subsequences-ii) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/abhisand2815/DSA-Remaining-days/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1768-merge-strings-alternately](https://github.com/abhisand2815/DSA-Remaining-days/tree/master/1768-merge-strings-alternately) |
 | [1927-sum-game](https://github.com/abhisand2815/DSA-Remaining-days/tree/master/1927-sum-game) |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/abhisand2815/DSA-Remaining-days/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/abhisand2815/DSA-Remaining-days/tree/master/0322-coin-change) |
 | [0918-maximum-sum-circular-subarray](https://github.com/abhisand2815/DSA-Remaining-days/tree/master/0918-maximum-sum-circular-subarray) |
+| [0940-distinct-subsequences-ii](https://github.com/abhisand2815/DSA-Remaining-days/tree/master/0940-distinct-subsequences-ii) |
 | [1872-stone-game-viii](https://github.com/abhisand2815/DSA-Remaining-days/tree/master/1872-stone-game-viii) |
 ## Depth-First Search
 |  |
