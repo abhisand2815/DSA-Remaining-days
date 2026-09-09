@@ -257,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/abhisand2815/DSA-Remaining-days/tree/master/0155-min-stack) |
 | [0295-find-median-from-data-stream](https://github.com/abhisand2815/DSA-Remaining-days/tree/master/0295-find-median-from-data-stream) |
 ## Data Stream
 |  |
@@ -401,6 +402,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/abhisand2815/DSA-Remaining-days/tree/master/0020-valid-parentheses) |
+| [0155-min-stack](https://github.com/abhisand2815/DSA-Remaining-days/tree/master/0155-min-stack) |
 | [0496-next-greater-element-i](https://github.com/abhisand2815/DSA-Remaining-days/tree/master/0496-next-greater-element-i) |
 ## Bracket Sequences
 |  |
