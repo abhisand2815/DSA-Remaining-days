@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/abhisand2815/DSA-Remaining-days/tree/master/0496-next-greater-element-i) |
 | [0502-ipo](https://github.com/abhisand2815/DSA-Remaining-days/tree/master/0502-ipo) |
 | [0605-can-place-flowers](https://github.com/abhisand2815/DSA-Remaining-days/tree/master/0605-can-place-flowers) |
+| [0622-design-circular-queue](https://github.com/abhisand2815/DSA-Remaining-days/tree/master/0622-design-circular-queue) |
 | [0918-maximum-sum-circular-subarray](https://github.com/abhisand2815/DSA-Remaining-days/tree/master/0918-maximum-sum-circular-subarray) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/abhisand2815/DSA-Remaining-days/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/abhisand2815/DSA-Remaining-days/tree/master/1679-max-number-of-k-sum-pairs) |
@@ -201,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/abhisand2815/DSA-Remaining-days/tree/master/0141-linked-list-cycle) |
 | [0148-sort-list](https://github.com/abhisand2815/DSA-Remaining-days/tree/master/0148-sort-list) |
 | [0206-reverse-linked-list](https://github.com/abhisand2815/DSA-Remaining-days/tree/master/0206-reverse-linked-list) |
+| [0622-design-circular-queue](https://github.com/abhisand2815/DSA-Remaining-days/tree/master/0622-design-circular-queue) |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/abhisand2815/DSA-Remaining-days/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 ## Two Pointers
 |  |
@@ -241,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Queue
 |  |
 | ------- |
+| [0622-design-circular-queue](https://github.com/abhisand2815/DSA-Remaining-days/tree/master/0622-design-circular-queue) |
 | [0918-maximum-sum-circular-subarray](https://github.com/abhisand2815/DSA-Remaining-days/tree/master/0918-maximum-sum-circular-subarray) |
 ## Monotonic Queue
 |  |
@@ -264,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0155-min-stack](https://github.com/abhisand2815/DSA-Remaining-days/tree/master/0155-min-stack) |
 | [0295-find-median-from-data-stream](https://github.com/abhisand2815/DSA-Remaining-days/tree/master/0295-find-median-from-data-stream) |
+| [0622-design-circular-queue](https://github.com/abhisand2815/DSA-Remaining-days/tree/master/0622-design-circular-queue) |
 ## Data Stream
 |  |
 | ------- |
