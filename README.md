@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0502-ipo](https://github.com/abhisand2815/DSA-Remaining-days/tree/master/0502-ipo) |
 | [0605-can-place-flowers](https://github.com/abhisand2815/DSA-Remaining-days/tree/master/0605-can-place-flowers) |
 | [0622-design-circular-queue](https://github.com/abhisand2815/DSA-Remaining-days/tree/master/0622-design-circular-queue) |
+| [0835-image-overlap](https://github.com/abhisand2815/DSA-Remaining-days/tree/master/0835-image-overlap) |
 | [0918-maximum-sum-circular-subarray](https://github.com/abhisand2815/DSA-Remaining-days/tree/master/0918-maximum-sum-circular-subarray) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/abhisand2815/DSA-Remaining-days/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/abhisand2815/DSA-Remaining-days/tree/master/1679-max-number-of-k-sum-pairs) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0212-word-search-ii](https://github.com/abhisand2815/DSA-Remaining-days/tree/master/0212-word-search-ii) |
 | [0221-maximal-square](https://github.com/abhisand2815/DSA-Remaining-days/tree/master/0221-maximal-square) |
 | [0427-construct-quad-tree](https://github.com/abhisand2815/DSA-Remaining-days/tree/master/0427-construct-quad-tree) |
+| [0835-image-overlap](https://github.com/abhisand2815/DSA-Remaining-days/tree/master/0835-image-overlap) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/abhisand2815/DSA-Remaining-days/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Hash Table
 |  |
