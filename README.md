@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/abhisand2815/DSA-Remaining-days/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/abhisand2815/DSA-Remaining-days/tree/master/0322-coin-change) |
 | [0334-increasing-triplet-subsequence](https://github.com/abhisand2815/DSA-Remaining-days/tree/master/0334-increasing-triplet-subsequence) |
+| [0347-top-k-frequent-elements](https://github.com/abhisand2815/DSA-Remaining-days/tree/master/0347-top-k-frequent-elements) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/abhisand2815/DSA-Remaining-days/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0427-construct-quad-tree](https://github.com/abhisand2815/DSA-Remaining-days/tree/master/0427-construct-quad-tree) |
 | [0435-non-overlapping-intervals](https://github.com/abhisand2815/DSA-Remaining-days/tree/master/0435-non-overlapping-intervals) |
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/abhisand2815/DSA-Remaining-days/tree/master/0141-linked-list-cycle) |
 | [0149-max-points-on-a-line](https://github.com/abhisand2815/DSA-Remaining-days/tree/master/0149-max-points-on-a-line) |
 | [0242-valid-anagram](https://github.com/abhisand2815/DSA-Remaining-days/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/abhisand2815/DSA-Remaining-days/tree/master/0347-top-k-frequent-elements) |
 | [0496-next-greater-element-i](https://github.com/abhisand2815/DSA-Remaining-days/tree/master/0496-next-greater-element-i) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/abhisand2815/DSA-Remaining-days/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/abhisand2815/DSA-Remaining-days/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
@@ -194,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/abhisand2815/DSA-Remaining-days/tree/master/0148-sort-list) |
 | [0190-reverse-bits](https://github.com/abhisand2815/DSA-Remaining-days/tree/master/0190-reverse-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/abhisand2815/DSA-Remaining-days/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/abhisand2815/DSA-Remaining-days/tree/master/0347-top-k-frequent-elements) |
 | [0427-construct-quad-tree](https://github.com/abhisand2815/DSA-Remaining-days/tree/master/0427-construct-quad-tree) |
 | [0918-maximum-sum-circular-subarray](https://github.com/abhisand2815/DSA-Remaining-days/tree/master/0918-maximum-sum-circular-subarray) |
 ## Tree
@@ -255,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/abhisand2815/DSA-Remaining-days/tree/master/0215-kth-largest-element-in-an-array) |
 | [0242-valid-anagram](https://github.com/abhisand2815/DSA-Remaining-days/tree/master/0242-valid-anagram) |
 | [0295-find-median-from-data-stream](https://github.com/abhisand2815/DSA-Remaining-days/tree/master/0295-find-median-from-data-stream) |
+| [0347-top-k-frequent-elements](https://github.com/abhisand2815/DSA-Remaining-days/tree/master/0347-top-k-frequent-elements) |
 | [0435-non-overlapping-intervals](https://github.com/abhisand2815/DSA-Remaining-days/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/abhisand2815/DSA-Remaining-days/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0502-ipo](https://github.com/abhisand2815/DSA-Remaining-days/tree/master/0502-ipo) |
@@ -275,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/abhisand2815/DSA-Remaining-days/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/abhisand2815/DSA-Remaining-days/tree/master/0239-sliding-window-maximum) |
 | [0295-find-median-from-data-stream](https://github.com/abhisand2815/DSA-Remaining-days/tree/master/0295-find-median-from-data-stream) |
+| [0347-top-k-frequent-elements](https://github.com/abhisand2815/DSA-Remaining-days/tree/master/0347-top-k-frequent-elements) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/abhisand2815/DSA-Remaining-days/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0502-ipo](https://github.com/abhisand2815/DSA-Remaining-days/tree/master/0502-ipo) |
 | [1046-last-stone-weight](https://github.com/abhisand2815/DSA-Remaining-days/tree/master/1046-last-stone-weight) |
@@ -294,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/abhisand2815/DSA-Remaining-days/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/abhisand2815/DSA-Remaining-days/tree/master/0347-top-k-frequent-elements) |
 ## Greedy
 |  |
 | ------- |
@@ -465,6 +471,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/abhisand2815/DSA-Remaining-days/tree/master/0347-top-k-frequent-elements) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/abhisand2815/DSA-Remaining-days/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Union-Find
 |  |
@@ -517,4 +524,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/abhisand2815/DSA-Remaining-days/tree/master/0214-shortest-palindrome) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/abhisand2815/DSA-Remaining-days/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
