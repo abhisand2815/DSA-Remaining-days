@@ -1,45 +1,30 @@
 class Solution {
-
-    private int count = 0;
+    int count = 0;
 
     public int totalNQueens(int n) {
-
         boolean[] col = new boolean[n];
-        boolean[] diag1 = new boolean[2 * n];
-        boolean[] diag2 = new boolean[2 * n];
+        boolean[] d1 = new boolean[2 * n - 1];
+        boolean[] d2 = new boolean[2 * n - 1];
 
-        backtrack(0, n, col, diag1, diag2);
-
+        solve(0, n, col, d1, d2);
         return count;
     }
 
-    private void backtrack(int row, int n,
-                           boolean[] col,
-                           boolean[] diag1,
-                           boolean[] diag2) {
-
-        if (row == n) {
+    void solve(int r, int n, boolean[] col, boolean[] d1, boolean[] d2) {
+        if (r == n) {
             count++;
             return;
         }
 
         for (int c = 0; c < n; c++) {
+            int x = r - c + n - 1;
+            int y = r + c;
 
-            int d1 = row - c + n;
-            int d2 = row + c;
+            if (col[c] || d1[x] || d2[y]) continue;
 
-            if (col[c] || diag1[d1] || diag2[d2])
-                continue;
-
-            col[c] = true;
-            diag1[d1] = true;
-            diag2[d2] = true;
-
-            backtrack(row + 1, n, col, diag1, diag2);
-
-            col[c] = false;
-            diag1[d1] = false;
-            diag2[d2] = false;
+            col[c] = d1[x] = d2[y] = true;
+            solve(r + 1, n, col, d1, d2);
+            col[c] = d1[x] = d2[y] = false;
         }
     }
 }
