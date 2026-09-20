@@ -1,25 +1,8 @@
-/**
- * Definition for singly-linked list.
- * public class ListNode {
- *     int val;
- *     ListNode next;
- *     ListNode() {}
- *     ListNode(int val) { this.val = val; }
- *     ListNode(int val, ListNode next) { this.val = val; this.next = next; }
- * }
- */
-
 class Solution {
-
     public ListNode sortList(ListNode head) {
+        if (head == null || head.next == null) return head;
 
-        if (head == null || head.next == null)
-            return head;
-
-        // Find middle
-        ListNode slow = head;
-        ListNode fast = head.next;
-
+        ListNode slow = head, fast = head.next;
         while (fast != null && fast.next != null) {
             slow = slow.next;
             fast = fast.next.next;
@@ -28,32 +11,27 @@ class Solution {
         ListNode mid = slow.next;
         slow.next = null;
 
-        ListNode left = sortList(head);
-        ListNode right = sortList(mid);
+        ListNode a = sortList(head);
+        ListNode b = sortList(mid);
 
-        return merge(left, right);
+        return merge(a, b);
     }
 
-    private ListNode merge(ListNode a, ListNode b) {
-
-        ListNode dummy = new ListNode(0);
-        ListNode tail = dummy;
+    ListNode merge(ListNode a, ListNode b) {
+        ListNode dummy = new ListNode(0), cur = dummy;
 
         while (a != null && b != null) {
-
-            if (a.val <= b.val) {
-                tail.next = a;
+            if (a.val < b.val) {
+                cur.next = a;
                 a = a.next;
             } else {
-                tail.next = b;
+                cur.next = b;
                 b = b.next;
             }
-
-            tail = tail.next;
+            cur = cur.next;
         }
 
-        tail.next = (a != null) ? a : b;
-
+        cur.next = (a != null) ? a : b;
         return dummy.next;
     }
 }
