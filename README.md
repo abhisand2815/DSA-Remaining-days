@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/abhisand2815/DSA-Remaining-days/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0496-next-greater-element-i](https://github.com/abhisand2815/DSA-Remaining-days/tree/master/0496-next-greater-element-i) |
 | [0502-ipo](https://github.com/abhisand2815/DSA-Remaining-days/tree/master/0502-ipo) |
+| [0503-next-greater-element-ii](https://github.com/abhisand2815/DSA-Remaining-days/tree/master/0503-next-greater-element-ii) |
 | [0605-can-place-flowers](https://github.com/abhisand2815/DSA-Remaining-days/tree/master/0605-can-place-flowers) |
 | [0622-design-circular-queue](https://github.com/abhisand2815/DSA-Remaining-days/tree/master/0622-design-circular-queue) |
 | [0641-design-circular-deque](https://github.com/abhisand2815/DSA-Remaining-days/tree/master/0641-design-circular-deque) |
@@ -515,6 +516,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/abhisand2815/DSA-Remaining-days/tree/master/0020-valid-parentheses) |
 | [0155-min-stack](https://github.com/abhisand2815/DSA-Remaining-days/tree/master/0155-min-stack) |
 | [0496-next-greater-element-i](https://github.com/abhisand2815/DSA-Remaining-days/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/abhisand2815/DSA-Remaining-days/tree/master/0503-next-greater-element-ii) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -524,6 +526,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/abhisand2815/DSA-Remaining-days/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/abhisand2815/DSA-Remaining-days/tree/master/0503-next-greater-element-ii) |
 ## Algorithm X
 |  |
 | ------- |
