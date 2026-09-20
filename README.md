@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0214-shortest-palindrome](https://github.com/abhisand2815/DSA-Remaining-days/tree/master/0214-shortest-palindrome) |
 | [0242-valid-anagram](https://github.com/abhisand2815/DSA-Remaining-days/tree/master/0242-valid-anagram) |
 | [0345-reverse-vowels-of-a-string](https://github.com/abhisand2815/DSA-Remaining-days/tree/master/0345-reverse-vowels-of-a-string) |
+| [0424-longest-repeating-character-replacement](https://github.com/abhisand2815/DSA-Remaining-days/tree/master/0424-longest-repeating-character-replacement) |
 | [0443-string-compression](https://github.com/abhisand2815/DSA-Remaining-days/tree/master/0443-string-compression) |
 | [0647-palindromic-substrings](https://github.com/abhisand2815/DSA-Remaining-days/tree/master/0647-palindromic-substrings) |
 | [0940-distinct-subsequences-ii](https://github.com/abhisand2815/DSA-Remaining-days/tree/master/0940-distinct-subsequences-ii) |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0149-max-points-on-a-line](https://github.com/abhisand2815/DSA-Remaining-days/tree/master/0149-max-points-on-a-line) |
 | [0242-valid-anagram](https://github.com/abhisand2815/DSA-Remaining-days/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/abhisand2815/DSA-Remaining-days/tree/master/0347-top-k-frequent-elements) |
+| [0424-longest-repeating-character-replacement](https://github.com/abhisand2815/DSA-Remaining-days/tree/master/0424-longest-repeating-character-replacement) |
 | [0496-next-greater-element-i](https://github.com/abhisand2815/DSA-Remaining-days/tree/master/0496-next-greater-element-i) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/abhisand2815/DSA-Remaining-days/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/abhisand2815/DSA-Remaining-days/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
@@ -476,6 +478,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/abhisand2815/DSA-Remaining-days/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/abhisand2815/DSA-Remaining-days/tree/master/0076-minimum-window-substring) |
 | [0239-sliding-window-maximum](https://github.com/abhisand2815/DSA-Remaining-days/tree/master/0239-sliding-window-maximum) |
+| [0424-longest-repeating-character-replacement](https://github.com/abhisand2815/DSA-Remaining-days/tree/master/0424-longest-repeating-character-replacement) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/abhisand2815/DSA-Remaining-days/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/abhisand2815/DSA-Remaining-days/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 ## Counting
