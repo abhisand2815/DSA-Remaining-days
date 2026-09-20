@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0502-ipo](https://github.com/abhisand2815/DSA-Remaining-days/tree/master/0502-ipo) |
 | [0605-can-place-flowers](https://github.com/abhisand2815/DSA-Remaining-days/tree/master/0605-can-place-flowers) |
 | [0622-design-circular-queue](https://github.com/abhisand2815/DSA-Remaining-days/tree/master/0622-design-circular-queue) |
+| [0646-maximum-length-of-pair-chain](https://github.com/abhisand2815/DSA-Remaining-days/tree/master/0646-maximum-length-of-pair-chain) |
 | [0835-image-overlap](https://github.com/abhisand2815/DSA-Remaining-days/tree/master/0835-image-overlap) |
 | [0918-maximum-sum-circular-subarray](https://github.com/abhisand2815/DSA-Remaining-days/tree/master/0918-maximum-sum-circular-subarray) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/abhisand2815/DSA-Remaining-days/tree/master/1431-kids-with-the-greatest-number-of-candies) |
@@ -167,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/abhisand2815/DSA-Remaining-days/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/abhisand2815/DSA-Remaining-days/tree/master/0322-coin-change) |
 | [0435-non-overlapping-intervals](https://github.com/abhisand2815/DSA-Remaining-days/tree/master/0435-non-overlapping-intervals) |
+| [0646-maximum-length-of-pair-chain](https://github.com/abhisand2815/DSA-Remaining-days/tree/master/0646-maximum-length-of-pair-chain) |
 | [0647-palindromic-substrings](https://github.com/abhisand2815/DSA-Remaining-days/tree/master/0647-palindromic-substrings) |
 | [0918-maximum-sum-circular-subarray](https://github.com/abhisand2815/DSA-Remaining-days/tree/master/0918-maximum-sum-circular-subarray) |
 | [0940-distinct-subsequences-ii](https://github.com/abhisand2815/DSA-Remaining-days/tree/master/0940-distinct-subsequences-ii) |
@@ -253,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0295-find-median-from-data-stream](https://github.com/abhisand2815/DSA-Remaining-days/tree/master/0295-find-median-from-data-stream) |
 | [0435-non-overlapping-intervals](https://github.com/abhisand2815/DSA-Remaining-days/tree/master/0435-non-overlapping-intervals) |
 | [0502-ipo](https://github.com/abhisand2815/DSA-Remaining-days/tree/master/0502-ipo) |
+| [0646-maximum-length-of-pair-chain](https://github.com/abhisand2815/DSA-Remaining-days/tree/master/0646-maximum-length-of-pair-chain) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/abhisand2815/DSA-Remaining-days/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/abhisand2815/DSA-Remaining-days/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/abhisand2815/DSA-Remaining-days/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
@@ -294,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/abhisand2815/DSA-Remaining-days/tree/master/0435-non-overlapping-intervals) |
 | [0502-ipo](https://github.com/abhisand2815/DSA-Remaining-days/tree/master/0502-ipo) |
 | [0605-can-place-flowers](https://github.com/abhisand2815/DSA-Remaining-days/tree/master/0605-can-place-flowers) |
+| [0646-maximum-length-of-pair-chain](https://github.com/abhisand2815/DSA-Remaining-days/tree/master/0646-maximum-length-of-pair-chain) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/abhisand2815/DSA-Remaining-days/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1927-sum-game](https://github.com/abhisand2815/DSA-Remaining-days/tree/master/1927-sum-game) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/abhisand2815/DSA-Remaining-days/tree/master/2091-removing-minimum-and-maximum-from-array) |
@@ -427,6 +431,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0334-increasing-triplet-subsequence](https://github.com/abhisand2815/DSA-Remaining-days/tree/master/0334-increasing-triplet-subsequence) |
+| [0646-maximum-length-of-pair-chain](https://github.com/abhisand2815/DSA-Remaining-days/tree/master/0646-maximum-length-of-pair-chain) |
 ## Combinatorics
 |  |
 | ------- |
