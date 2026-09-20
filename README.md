@@ -322,6 +322,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0149-max-points-on-a-line](https://github.com/abhisand2815/DSA-Remaining-days/tree/master/0149-max-points-on-a-line) |
 | [0172-factorial-trailing-zeroes](https://github.com/abhisand2815/DSA-Remaining-days/tree/master/0172-factorial-trailing-zeroes) |
 | [0204-count-primes](https://github.com/abhisand2815/DSA-Remaining-days/tree/master/0204-count-primes) |
+| [0390-elimination-game](https://github.com/abhisand2815/DSA-Remaining-days/tree/master/0390-elimination-game) |
 | [0836-rectangle-overlap](https://github.com/abhisand2815/DSA-Remaining-days/tree/master/0836-rectangle-overlap) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/abhisand2815/DSA-Remaining-days/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/abhisand2815/DSA-Remaining-days/tree/master/1401-circle-and-rectangle-overlapping) |
@@ -358,6 +359,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/abhisand2815/DSA-Remaining-days/tree/master/0021-merge-two-sorted-lists) |
 | [0050-powx-n](https://github.com/abhisand2815/DSA-Remaining-days/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/abhisand2815/DSA-Remaining-days/tree/master/0206-reverse-linked-list) |
+| [0390-elimination-game](https://github.com/abhisand2815/DSA-Remaining-days/tree/master/0390-elimination-game) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/abhisand2815/DSA-Remaining-days/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [3483-unique-3-digit-even-numbers](https://github.com/abhisand2815/DSA-Remaining-days/tree/master/3483-unique-3-digit-even-numbers) |
 ## Geometry
