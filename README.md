@@ -242,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/abhisand2815/DSA-Remaining-days/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/abhisand2815/DSA-Remaining-days/tree/master/0021-merge-two-sorted-lists) |
 | [0023-merge-k-sorted-lists](https://github.com/abhisand2815/DSA-Remaining-days/tree/master/0023-merge-k-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/abhisand2815/DSA-Remaining-days/tree/master/0025-reverse-nodes-in-k-group) |
@@ -256,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/abhisand2815/DSA-Remaining-days/tree/master/0005-longest-palindromic-substring) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/abhisand2815/DSA-Remaining-days/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0027-remove-element](https://github.com/abhisand2815/DSA-Remaining-days/tree/master/0027-remove-element) |
 | [0125-valid-palindrome](https://github.com/abhisand2815/DSA-Remaining-days/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/abhisand2815/DSA-Remaining-days/tree/master/0141-linked-list-cycle) |
