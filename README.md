@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/abhisand2815/DSA-Remaining-days/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/abhisand2815/DSA-Remaining-days/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/abhisand2815/DSA-Remaining-days/tree/master/0079-word-search) |
+| [0084-largest-rectangle-in-histogram](https://github.com/abhisand2815/DSA-Remaining-days/tree/master/0084-largest-rectangle-in-histogram) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/abhisand2815/DSA-Remaining-days/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0120-triangle](https://github.com/abhisand2815/DSA-Remaining-days/tree/master/0120-triangle) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/abhisand2815/DSA-Remaining-days/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
@@ -514,6 +515,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/abhisand2815/DSA-Remaining-days/tree/master/0020-valid-parentheses) |
+| [0084-largest-rectangle-in-histogram](https://github.com/abhisand2815/DSA-Remaining-days/tree/master/0084-largest-rectangle-in-histogram) |
 | [0155-min-stack](https://github.com/abhisand2815/DSA-Remaining-days/tree/master/0155-min-stack) |
 | [0496-next-greater-element-i](https://github.com/abhisand2815/DSA-Remaining-days/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/abhisand2815/DSA-Remaining-days/tree/master/0503-next-greater-element-ii) |
@@ -525,6 +527,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/abhisand2815/DSA-Remaining-days/tree/master/0084-largest-rectangle-in-histogram) |
 | [0496-next-greater-element-i](https://github.com/abhisand2815/DSA-Remaining-days/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/abhisand2815/DSA-Remaining-days/tree/master/0503-next-greater-element-ii) |
 ## Algorithm X
@@ -535,6 +538,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Range Minimum/Maximum Query
 |  |
 | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/abhisand2815/DSA-Remaining-days/tree/master/0084-largest-rectangle-in-histogram) |
 | [0239-sliding-window-maximum](https://github.com/abhisand2815/DSA-Remaining-days/tree/master/0239-sliding-window-maximum) |
 ## Rolling Hash
 |  |
