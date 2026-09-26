@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/abhisand2815/DSA-Remaining-days/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/abhisand2815/DSA-Remaining-days/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/abhisand2815/DSA-Remaining-days/tree/master/1679-max-number-of-k-sum-pairs) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/abhisand2815/DSA-Remaining-days/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/abhisand2815/DSA-Remaining-days/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1872-stone-game-viii](https://github.com/abhisand2815/DSA-Remaining-days/tree/master/1872-stone-game-viii) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/abhisand2815/DSA-Remaining-days/tree/master/2091-removing-minimum-and-maximum-from-array) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1096-brace-expansion-ii](https://github.com/abhisand2815/DSA-Remaining-days/tree/master/1096-brace-expansion-ii) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/abhisand2815/DSA-Remaining-days/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1768-merge-strings-alternately](https://github.com/abhisand2815/DSA-Remaining-days/tree/master/1768-merge-strings-alternately) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/abhisand2815/DSA-Remaining-days/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1927-sum-game](https://github.com/abhisand2815/DSA-Remaining-days/tree/master/1927-sum-game) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/abhisand2815/DSA-Remaining-days/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/abhisand2815/DSA-Remaining-days/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
@@ -166,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/abhisand2815/DSA-Remaining-days/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/abhisand2815/DSA-Remaining-days/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/abhisand2815/DSA-Remaining-days/tree/master/1679-max-number-of-k-sum-pairs) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/abhisand2815/DSA-Remaining-days/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [3483-unique-3-digit-even-numbers](https://github.com/abhisand2815/DSA-Remaining-days/tree/master/3483-unique-3-digit-even-numbers) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/abhisand2815/DSA-Remaining-days/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/abhisand2815/DSA-Remaining-days/tree/master/3718-smallest-missing-multiple-of-k) |
