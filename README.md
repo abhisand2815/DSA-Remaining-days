@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0940-distinct-subsequences-ii](https://github.com/abhisand2815/DSA-Remaining-days/tree/master/0940-distinct-subsequences-ii) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/abhisand2815/DSA-Remaining-days/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1096-brace-expansion-ii](https://github.com/abhisand2815/DSA-Remaining-days/tree/master/1096-brace-expansion-ii) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/abhisand2815/DSA-Remaining-days/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/abhisand2815/DSA-Remaining-days/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1768-merge-strings-alternately](https://github.com/abhisand2815/DSA-Remaining-days/tree/master/1768-merge-strings-alternately) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/abhisand2815/DSA-Remaining-days/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
@@ -546,11 +547,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/abhisand2815/DSA-Remaining-days/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/abhisand2815/DSA-Remaining-days/tree/master/0503-next-greater-element-ii) |
 | [1096-brace-expansion-ii](https://github.com/abhisand2815/DSA-Remaining-days/tree/master/1096-brace-expansion-ii) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/abhisand2815/DSA-Remaining-days/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 ## Bracket Sequences
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/abhisand2815/DSA-Remaining-days/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/abhisand2815/DSA-Remaining-days/tree/master/0022-generate-parentheses) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/abhisand2815/DSA-Remaining-days/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 ## Monotonic Stack
 |  |
 | ------- |
