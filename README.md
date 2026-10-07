@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0212-word-search-ii](https://github.com/abhisand2815/DSA-Remaining-days/tree/master/0212-word-search-ii) |
 | [0214-shortest-palindrome](https://github.com/abhisand2815/DSA-Remaining-days/tree/master/0214-shortest-palindrome) |
 | [0242-valid-anagram](https://github.com/abhisand2815/DSA-Remaining-days/tree/master/0242-valid-anagram) |
+| [0301-remove-invalid-parentheses](https://github.com/abhisand2815/DSA-Remaining-days/tree/master/0301-remove-invalid-parentheses) |
 | [0345-reverse-vowels-of-a-string](https://github.com/abhisand2815/DSA-Remaining-days/tree/master/0345-reverse-vowels-of-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/abhisand2815/DSA-Remaining-days/tree/master/0424-longest-repeating-character-replacement) |
 | [0443-string-compression](https://github.com/abhisand2815/DSA-Remaining-days/tree/master/0443-string-compression) |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0077-combinations](https://github.com/abhisand2815/DSA-Remaining-days/tree/master/0077-combinations) |
 | [0079-word-search](https://github.com/abhisand2815/DSA-Remaining-days/tree/master/0079-word-search) |
 | [0212-word-search-ii](https://github.com/abhisand2815/DSA-Remaining-days/tree/master/0212-word-search-ii) |
+| [0301-remove-invalid-parentheses](https://github.com/abhisand2815/DSA-Remaining-days/tree/master/0301-remove-invalid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/abhisand2815/DSA-Remaining-days/tree/master/1096-brace-expansion-ii) |
 ## Trie
 |  |
@@ -459,6 +461,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0301-remove-invalid-parentheses](https://github.com/abhisand2815/DSA-Remaining-days/tree/master/0301-remove-invalid-parentheses) |
 | [0322-coin-change](https://github.com/abhisand2815/DSA-Remaining-days/tree/master/0322-coin-change) |
 | [1096-brace-expansion-ii](https://github.com/abhisand2815/DSA-Remaining-days/tree/master/1096-brace-expansion-ii) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/abhisand2815/DSA-Remaining-days/tree/master/3568-minimum-moves-to-clean-the-classroom) |
