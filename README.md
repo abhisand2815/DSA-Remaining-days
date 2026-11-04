@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0918-maximum-sum-circular-subarray](https://github.com/abhisand2815/DSA-Remaining-days/tree/master/0918-maximum-sum-circular-subarray) |
 | [1046-last-stone-weight](https://github.com/abhisand2815/DSA-Remaining-days/tree/master/1046-last-stone-weight) |
 | [1254-number-of-closed-islands](https://github.com/abhisand2815/DSA-Remaining-days/tree/master/1254-number-of-closed-islands) |
+| [1268-search-suggestions-system](https://github.com/abhisand2815/DSA-Remaining-days/tree/master/1268-search-suggestions-system) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/abhisand2815/DSA-Remaining-days/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/abhisand2815/DSA-Remaining-days/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/abhisand2815/DSA-Remaining-days/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/abhisand2815/DSA-Remaining-days/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1143-longest-common-subsequence](https://github.com/abhisand2815/DSA-Remaining-days/tree/master/1143-longest-common-subsequence) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/abhisand2815/DSA-Remaining-days/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+| [1268-search-suggestions-system](https://github.com/abhisand2815/DSA-Remaining-days/tree/master/1268-search-suggestions-system) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/abhisand2815/DSA-Remaining-days/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/abhisand2815/DSA-Remaining-days/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/abhisand2815/DSA-Remaining-days/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -172,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/abhisand2815/DSA-Remaining-days/tree/master/0014-longest-common-prefix) |
 | [0139-word-break](https://github.com/abhisand2815/DSA-Remaining-days/tree/master/0139-word-break) |
 | [0212-word-search-ii](https://github.com/abhisand2815/DSA-Remaining-days/tree/master/0212-word-search-ii) |
+| [1268-search-suggestions-system](https://github.com/abhisand2815/DSA-Remaining-days/tree/master/1268-search-suggestions-system) |
 ## Matrix
 |  |
 | ------- |
@@ -301,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/abhisand2815/DSA-Remaining-days/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/abhisand2815/DSA-Remaining-days/tree/master/0162-find-peak-element) |
 | [0300-longest-increasing-subsequence](https://github.com/abhisand2815/DSA-Remaining-days/tree/master/0300-longest-increasing-subsequence) |
+| [1268-search-suggestions-system](https://github.com/abhisand2815/DSA-Remaining-days/tree/master/1268-search-suggestions-system) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/abhisand2815/DSA-Remaining-days/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/abhisand2815/DSA-Remaining-days/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/abhisand2815/DSA-Remaining-days/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -364,6 +368,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0502-ipo](https://github.com/abhisand2815/DSA-Remaining-days/tree/master/0502-ipo) |
 | [0646-maximum-length-of-pair-chain](https://github.com/abhisand2815/DSA-Remaining-days/tree/master/0646-maximum-length-of-pair-chain) |
 | [1096-brace-expansion-ii](https://github.com/abhisand2815/DSA-Remaining-days/tree/master/1096-brace-expansion-ii) |
+| [1268-search-suggestions-system](https://github.com/abhisand2815/DSA-Remaining-days/tree/master/1268-search-suggestions-system) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/abhisand2815/DSA-Remaining-days/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/abhisand2815/DSA-Remaining-days/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/abhisand2815/DSA-Remaining-days/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -390,6 +395,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/abhisand2815/DSA-Remaining-days/tree/master/0451-sort-characters-by-frequency) |
 | [0502-ipo](https://github.com/abhisand2815/DSA-Remaining-days/tree/master/0502-ipo) |
 | [1046-last-stone-weight](https://github.com/abhisand2815/DSA-Remaining-days/tree/master/1046-last-stone-weight) |
+| [1268-search-suggestions-system](https://github.com/abhisand2815/DSA-Remaining-days/tree/master/1268-search-suggestions-system) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/abhisand2815/DSA-Remaining-days/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/abhisand2815/DSA-Remaining-days/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/abhisand2815/DSA-Remaining-days/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
