@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/abhisand2815/DSA-Remaining-days/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/abhisand2815/DSA-Remaining-days/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1872-stone-game-viii](https://github.com/abhisand2815/DSA-Remaining-days/tree/master/1872-stone-game-viii) |
+| [1882-process-tasks-using-servers](https://github.com/abhisand2815/DSA-Remaining-days/tree/master/1882-process-tasks-using-servers) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/abhisand2815/DSA-Remaining-days/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/abhisand2815/DSA-Remaining-days/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/abhisand2815/DSA-Remaining-days/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
@@ -405,6 +406,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-last-stone-weight](https://github.com/abhisand2815/DSA-Remaining-days/tree/master/1046-last-stone-weight) |
 | [1268-search-suggestions-system](https://github.com/abhisand2815/DSA-Remaining-days/tree/master/1268-search-suggestions-system) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/abhisand2815/DSA-Remaining-days/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
+| [1882-process-tasks-using-servers](https://github.com/abhisand2815/DSA-Remaining-days/tree/master/1882-process-tasks-using-servers) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/abhisand2815/DSA-Remaining-days/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/abhisand2815/DSA-Remaining-days/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 ## Queue
