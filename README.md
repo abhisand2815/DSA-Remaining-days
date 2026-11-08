@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0918-maximum-sum-circular-subarray](https://github.com/abhisand2815/DSA-Remaining-days/tree/master/0918-maximum-sum-circular-subarray) |
 | [1046-last-stone-weight](https://github.com/abhisand2815/DSA-Remaining-days/tree/master/1046-last-stone-weight) |
 | [1254-number-of-closed-islands](https://github.com/abhisand2815/DSA-Remaining-days/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/abhisand2815/DSA-Remaining-days/tree/master/1267-count-servers-that-communicate) |
 | [1268-search-suggestions-system](https://github.com/abhisand2815/DSA-Remaining-days/tree/master/1268-search-suggestions-system) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/abhisand2815/DSA-Remaining-days/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/abhisand2815/DSA-Remaining-days/tree/master/1431-kids-with-the-greatest-number-of-candies) |
@@ -190,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0427-construct-quad-tree](https://github.com/abhisand2815/DSA-Remaining-days/tree/master/0427-construct-quad-tree) |
 | [0835-image-overlap](https://github.com/abhisand2815/DSA-Remaining-days/tree/master/0835-image-overlap) |
 | [1254-number-of-closed-islands](https://github.com/abhisand2815/DSA-Remaining-days/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/abhisand2815/DSA-Remaining-days/tree/master/1267-count-servers-that-communicate) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/abhisand2815/DSA-Remaining-days/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/abhisand2815/DSA-Remaining-days/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/abhisand2815/DSA-Remaining-days/tree/master/3882-minimum-xor-path-in-a-grid) |
@@ -271,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0079-word-search](https://github.com/abhisand2815/DSA-Remaining-days/tree/master/0079-word-search) |
 | [1254-number-of-closed-islands](https://github.com/abhisand2815/DSA-Remaining-days/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/abhisand2815/DSA-Remaining-days/tree/master/1267-count-servers-that-communicate) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/abhisand2815/DSA-Remaining-days/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/abhisand2815/DSA-Remaining-days/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Divide and Conquer
@@ -554,6 +557,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/abhisand2815/DSA-Remaining-days/tree/master/0322-coin-change) |
 | [1096-brace-expansion-ii](https://github.com/abhisand2815/DSA-Remaining-days/tree/master/1096-brace-expansion-ii) |
 | [1254-number-of-closed-islands](https://github.com/abhisand2815/DSA-Remaining-days/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/abhisand2815/DSA-Remaining-days/tree/master/1267-count-servers-that-communicate) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/abhisand2815/DSA-Remaining-days/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Manacher
 |  |
@@ -647,11 +651,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/abhisand2815/DSA-Remaining-days/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/abhisand2815/DSA-Remaining-days/tree/master/0451-sort-characters-by-frequency) |
+| [1267-count-servers-that-communicate](https://github.com/abhisand2815/DSA-Remaining-days/tree/master/1267-count-servers-that-communicate) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/abhisand2815/DSA-Remaining-days/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Union-Find
 |  |
 | ------- |
 | [1254-number-of-closed-islands](https://github.com/abhisand2815/DSA-Remaining-days/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/abhisand2815/DSA-Remaining-days/tree/master/1267-count-servers-that-communicate) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/abhisand2815/DSA-Remaining-days/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/abhisand2815/DSA-Remaining-days/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Floyd's Cycle Finding Algorithm
