@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/abhisand2815/DSA-Remaining-days/tree/master/0014-longest-common-prefix) |
 | [0016-3sum-closest](https://github.com/abhisand2815/DSA-Remaining-days/tree/master/0016-3sum-closest) |
 | [0027-remove-element](https://github.com/abhisand2815/DSA-Remaining-days/tree/master/0027-remove-element) |
+| [0031-next-permutation](https://github.com/abhisand2815/DSA-Remaining-days/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/abhisand2815/DSA-Remaining-days/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/abhisand2815/DSA-Remaining-days/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/abhisand2815/DSA-Remaining-days/tree/master/0035-search-insert-position) |
@@ -359,6 +360,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/abhisand2815/DSA-Remaining-days/tree/master/0016-3sum-closest) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/abhisand2815/DSA-Remaining-days/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0027-remove-element](https://github.com/abhisand2815/DSA-Remaining-days/tree/master/0027-remove-element) |
+| [0031-next-permutation](https://github.com/abhisand2815/DSA-Remaining-days/tree/master/0031-next-permutation) |
 | [0125-valid-palindrome](https://github.com/abhisand2815/DSA-Remaining-days/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/abhisand2815/DSA-Remaining-days/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/abhisand2815/DSA-Remaining-days/tree/master/0142-linked-list-cycle-ii) |
