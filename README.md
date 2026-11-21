@@ -298,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0079-word-search](https://github.com/abhisand2815/DSA-Remaining-days/tree/master/0079-word-search) |
+| [0099-recover-binary-search-tree](https://github.com/abhisand2815/DSA-Remaining-days/tree/master/0099-recover-binary-search-tree) |
 | [1254-number-of-closed-islands](https://github.com/abhisand2815/DSA-Remaining-days/tree/master/1254-number-of-closed-islands) |
 | [1267-count-servers-that-communicate](https://github.com/abhisand2815/DSA-Remaining-days/tree/master/1267-count-servers-that-communicate) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/abhisand2815/DSA-Remaining-days/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
@@ -322,6 +323,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0099-recover-binary-search-tree](https://github.com/abhisand2815/DSA-Remaining-days/tree/master/0099-recover-binary-search-tree) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/abhisand2815/DSA-Remaining-days/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/abhisand2815/DSA-Remaining-days/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/abhisand2815/DSA-Remaining-days/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
@@ -339,6 +341,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/abhisand2815/DSA-Remaining-days/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/abhisand2815/DSA-Remaining-days/tree/master/0069-sqrtx) |
 | [0074-search-a-2d-matrix](https://github.com/abhisand2815/DSA-Remaining-days/tree/master/0074-search-a-2d-matrix) |
+| [0099-recover-binary-search-tree](https://github.com/abhisand2815/DSA-Remaining-days/tree/master/0099-recover-binary-search-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/abhisand2815/DSA-Remaining-days/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/abhisand2815/DSA-Remaining-days/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/abhisand2815/DSA-Remaining-days/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -356,6 +359,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0099-recover-binary-search-tree](https://github.com/abhisand2815/DSA-Remaining-days/tree/master/0099-recover-binary-search-tree) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/abhisand2815/DSA-Remaining-days/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/abhisand2815/DSA-Remaining-days/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/abhisand2815/DSA-Remaining-days/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
