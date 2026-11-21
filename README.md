@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/abhisand2815/DSA-Remaining-days/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/abhisand2815/DSA-Remaining-days/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/abhisand2815/DSA-Remaining-days/tree/master/0040-combination-sum-ii) |
+| [0041-first-missing-positive](https://github.com/abhisand2815/DSA-Remaining-days/tree/master/0041-first-missing-positive) |
 | [0046-permutations](https://github.com/abhisand2815/DSA-Remaining-days/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/abhisand2815/DSA-Remaining-days/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/abhisand2815/DSA-Remaining-days/tree/master/0053-maximum-subarray) |
@@ -218,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/abhisand2815/DSA-Remaining-days/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/abhisand2815/DSA-Remaining-days/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0037-sudoku-solver](https://github.com/abhisand2815/DSA-Remaining-days/tree/master/0037-sudoku-solver) |
+| [0041-first-missing-positive](https://github.com/abhisand2815/DSA-Remaining-days/tree/master/0041-first-missing-positive) |
 | [0076-minimum-window-substring](https://github.com/abhisand2815/DSA-Remaining-days/tree/master/0076-minimum-window-substring) |
 | [0139-word-break](https://github.com/abhisand2815/DSA-Remaining-days/tree/master/0139-word-break) |
 | [0141-linked-list-cycle](https://github.com/abhisand2815/DSA-Remaining-days/tree/master/0141-linked-list-cycle) |
