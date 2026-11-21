@@ -130,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/abhisand2815/DSA-Remaining-days/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/abhisand2815/DSA-Remaining-days/tree/master/0032-longest-valid-parentheses) |
 | [0038-count-and-say](https://github.com/abhisand2815/DSA-Remaining-days/tree/master/0038-count-and-say) |
+| [0044-wildcard-matching](https://github.com/abhisand2815/DSA-Remaining-days/tree/master/0044-wildcard-matching) |
 | [0067-add-binary](https://github.com/abhisand2815/DSA-Remaining-days/tree/master/0067-add-binary) |
 | [0072-edit-distance](https://github.com/abhisand2815/DSA-Remaining-days/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/abhisand2815/DSA-Remaining-days/tree/master/0076-minimum-window-substring) |
@@ -255,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0010-regular-expression-matching](https://github.com/abhisand2815/DSA-Remaining-days/tree/master/0010-regular-expression-matching) |
 | [0022-generate-parentheses](https://github.com/abhisand2815/DSA-Remaining-days/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/abhisand2815/DSA-Remaining-days/tree/master/0032-longest-valid-parentheses) |
+| [0044-wildcard-matching](https://github.com/abhisand2815/DSA-Remaining-days/tree/master/0044-wildcard-matching) |
 | [0053-maximum-subarray](https://github.com/abhisand2815/DSA-Remaining-days/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/abhisand2815/DSA-Remaining-days/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/abhisand2815/DSA-Remaining-days/tree/master/0063-unique-paths-ii) |
@@ -475,6 +477,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/abhisand2815/DSA-Remaining-days/tree/master/0044-wildcard-matching) |
 | [0334-increasing-triplet-subsequence](https://github.com/abhisand2815/DSA-Remaining-days/tree/master/0334-increasing-triplet-subsequence) |
 | [0435-non-overlapping-intervals](https://github.com/abhisand2815/DSA-Remaining-days/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/abhisand2815/DSA-Remaining-days/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
@@ -575,6 +578,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/abhisand2815/DSA-Remaining-days/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/abhisand2815/DSA-Remaining-days/tree/master/0024-swap-nodes-in-pairs) |
 | [0025-reverse-nodes-in-k-group](https://github.com/abhisand2815/DSA-Remaining-days/tree/master/0025-reverse-nodes-in-k-group) |
+| [0044-wildcard-matching](https://github.com/abhisand2815/DSA-Remaining-days/tree/master/0044-wildcard-matching) |
 | [0050-powx-n](https://github.com/abhisand2815/DSA-Remaining-days/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/abhisand2815/DSA-Remaining-days/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/abhisand2815/DSA-Remaining-days/tree/master/0234-palindrome-linked-list) |
