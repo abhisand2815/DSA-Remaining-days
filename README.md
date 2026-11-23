@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1254-number-of-closed-islands](https://github.com/abhisand2815/DSA-Remaining-days/tree/master/1254-number-of-closed-islands) |
 | [1267-count-servers-that-communicate](https://github.com/abhisand2815/DSA-Remaining-days/tree/master/1267-count-servers-that-communicate) |
 | [1268-search-suggestions-system](https://github.com/abhisand2815/DSA-Remaining-days/tree/master/1268-search-suggestions-system) |
+| [1352-product-of-the-last-k-numbers](https://github.com/abhisand2815/DSA-Remaining-days/tree/master/1352-product-of-the-last-k-numbers) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/abhisand2815/DSA-Remaining-days/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/abhisand2815/DSA-Remaining-days/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/abhisand2815/DSA-Remaining-days/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
@@ -512,10 +513,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0295-find-median-from-data-stream](https://github.com/abhisand2815/DSA-Remaining-days/tree/master/0295-find-median-from-data-stream) |
 | [0622-design-circular-queue](https://github.com/abhisand2815/DSA-Remaining-days/tree/master/0622-design-circular-queue) |
 | [0641-design-circular-deque](https://github.com/abhisand2815/DSA-Remaining-days/tree/master/0641-design-circular-deque) |
+| [1352-product-of-the-last-k-numbers](https://github.com/abhisand2815/DSA-Remaining-days/tree/master/1352-product-of-the-last-k-numbers) |
 ## Data Stream
 |  |
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/abhisand2815/DSA-Remaining-days/tree/master/0295-find-median-from-data-stream) |
+| [1352-product-of-the-last-k-numbers](https://github.com/abhisand2815/DSA-Remaining-days/tree/master/1352-product-of-the-last-k-numbers) |
 ## Math
 |  |
 | ------- |
@@ -535,6 +538,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0836-rectangle-overlap](https://github.com/abhisand2815/DSA-Remaining-days/tree/master/0836-rectangle-overlap) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/abhisand2815/DSA-Remaining-days/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1137-n-th-tribonacci-number](https://github.com/abhisand2815/DSA-Remaining-days/tree/master/1137-n-th-tribonacci-number) |
+| [1352-product-of-the-last-k-numbers](https://github.com/abhisand2815/DSA-Remaining-days/tree/master/1352-product-of-the-last-k-numbers) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/abhisand2815/DSA-Remaining-days/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/abhisand2815/DSA-Remaining-days/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/abhisand2815/DSA-Remaining-days/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
@@ -632,6 +636,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/abhisand2815/DSA-Remaining-days/tree/master/0238-product-of-array-except-self) |
+| [1352-product-of-the-last-k-numbers](https://github.com/abhisand2815/DSA-Remaining-days/tree/master/1352-product-of-the-last-k-numbers) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/abhisand2815/DSA-Remaining-days/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/abhisand2815/DSA-Remaining-days/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/abhisand2815/DSA-Remaining-days/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
